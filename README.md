@@ -1,2 +1,2 @@
-# springcloud-config-
+# springcloud-config
 application.yml配置
